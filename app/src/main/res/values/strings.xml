@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Up-2-Date</string>
+    <string-array name="Items">
+        <item>Select a category</item>
+        <item>Placement Cell</item>
+        <item>Workshops and Events</item>
+        <item>Holidays</item>
+        <item>Examination Notices</item>
+        <item>Extras</item>
+    </string-array>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "535034745565",
+    "firebase_url": "https://up2date-db.firebaseio.com",
+    "project_id": "up2date-db",
+    "storage_bucket": "up2date-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535034745565:android:72744483abf8c300",
+        "android_client_info": {
+          "package_name": "com.bkbiet.acm.up_2_date"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535034745565-3rcmeqs732uoqlqd8ccor5kaqm5uhede.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvkibWeGewD68WzIQIlp2HFcnGZODr2nI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
